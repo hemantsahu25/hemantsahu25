@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+<img width="945" height="250" alt="github-header-image" src="https://github.com/user-attachments/assets/c0e5c90c-2061-476e-b59f-0bf5726688f7" />
 
-<!--
-**hemantsahu25/hemantsahu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">😎 I'M HEMANT!</h1>
+
+<p align="center"><i>Digital Craftsman (Developer / Programmer)</i></p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hemant&label=Profile%20views&color=0e75b6&style=flat" alt="hemant" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/exercism/website/main/app/assets/images/mascot.png" width="150" />
+</p>
