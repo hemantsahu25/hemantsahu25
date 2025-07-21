@@ -14,6 +14,4 @@
   <img src="https://komarev.com/ghpvc/?username=hemant&label=Profile%20views&color=0e75b6&style=flat" alt="hemant" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/exercism/website/main/app/assets/images/mascot.png" width="150" />
-</p>
+
