@@ -3,7 +3,7 @@
   Hi, I'm Hemant Sahu
 </h1>
 
-<h3 align="center">💻 Frontend Developer | Aspiring MERN Full-Stack Developer | BSc IT Student</h3>
+<h3 align="center">🧑‍💻 Frontend Developer | Aspiring MERN Full-Stack Developer | BSc IT Student</h3>
 
 ---
 
