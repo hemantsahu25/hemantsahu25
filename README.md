@@ -1,8 +1,7 @@
-<h1 align="center">
-  Hi, I'm Hemant Sahu
-</h1>
 
-<h3 align="center">🧑‍💻 Frontend Developer | Aspiring MERN Full-Stack Developer | BSc IT Student</h3>
+##  Hi, I'm [Hemant](https://hemantsahu25.github.io/Portfolio) . Welcome to my GitHub Profile!
+
+<h3>🧑‍💻 Frontend Developer | Aspiring Full-Stack Developer (MERN)</h3>
 
 ---
 
