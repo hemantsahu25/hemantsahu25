@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Divider" />
 
   <h3>☁️ Aspiring Cloud & DevOps Engineer | Automating Infrastructure</h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Colud+Engineer;Linux+%7C+Docker+%7C+Kubernetes;AWS+%7C+Terraform+%7C+Jenkins;Continuous+Upskiller" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Cloud+Engineer;Linux+%7C+Docker+%7C+Kubernetes;AWS+%7C+Terraform+%7C+Jenkins;Continuous+Upskiller" />
 
    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Divider" />
 </div>
