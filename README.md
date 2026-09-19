@@ -55,17 +55,12 @@
 
 ## 🚀 Projects & Hands-On Experience  
 
-### 📌 1. Web Hosting & Automation: Portfolio Website  
-- 🔗 [Live Demo](https://hemantsahu25.github.io/Portfolio/)  
-- 📂 [GitHub Repo](https://github.com/hemantsahu25/Portfolio)  
-- 📝 Managed domain and hosting for a personal portfolio built with HTML/CSS, implementing continuous deployment via **GitHub Pages** for automated, zero-downtime updates.
-
-### 📌 2. Static Site Deployment: SkillUP E-Learning  
+### 📌 1. Static Site Deployment: SkillUP E-Learning  
 - 🔗 [Live Demo](https://hemantsahu25.github.io/SkillUP/)  
 - 📂 [GitHub Repo](https://github.com/hemantsahu25/SkillUP)  
 - 📝 Version-controlled and deployed a responsive e-learning platform UI using **Git and GitHub**, demonstrating foundational knowledge of web architecture and static site hosting.
 
-### 📌 3. AWS & Linux Administration (Ongoing Capstone)
+### 📌 2. AWS & Linux Administration (Ongoing Capstone)
 - 📝 Currently working on provisioning secure EC2 instances, managing S3 buckets for storage, and writing **Bash scripts** to automate routine Linux server maintenance tasks.  
 
 <div align="center">
